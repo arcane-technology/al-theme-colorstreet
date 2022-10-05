@@ -7,7 +7,7 @@
 *	Theme Author: Arcane Technology Solutions, LLC
 *	Theme Author URI: https://github.com/Arcane-Technology
 *	Theme License: GPLv3
-*	Source code: https://github.com/Arcane-Technology/colorstreet
+*	Source code: https://github.com/Arcane-Technology/al-theme-colorstreet
 
 
 ### Used assets:
