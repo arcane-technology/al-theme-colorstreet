@@ -1,4 +1,4 @@
-# A Arcane Link Theme
+# Arc Link Color Street Inspired Theme
 
                                                                                                                                                                          
 *	Theme Name: ColorStreet
